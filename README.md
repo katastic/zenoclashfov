@@ -1,5 +1,4 @@
-# zenoclashfov
-Zeno Clash FOV powershell script
+# zenoclashfov - Zeno Clash FOV changing powershell script
 
 Put Fix-WeaponZenoFOV.ps1 in your steam game folder. (ala C:\Program Files (x86)\Steam\steamapps\common\ZenoClash)
 
