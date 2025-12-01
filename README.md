@@ -2,11 +2,7 @@
 
 Put Fix-WeaponZenoFOV.ps1 in your steam game folder. (ala C:\Program Files (x86)\Steam\steamapps\common\ZenoClash)
 
-Load a powershell window there and run it. Might need admin or if not admin first run:
-```
-Set-ExecutionPolicy RemoteSigned
-```
-(Due to a Microsoft security policy.)
+Load a powershell window there and run it. If you've never run a powershell script before you'll probably have to google how to get arounds Microsoft's default no-script policy. Or maybe ask AI to convert this to batch script.
 
 Run:
 ```
